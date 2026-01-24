@@ -1,0 +1,30 @@
+{
+  "name": "view-rewards-backend",
+  "version": "2.0.0",
+  "description": "Hedera blockchain backend for VIEW Rewards TV",
+  "main": "hedera_backend_nodejs.js",
+  "scripts": {
+    "start": "node hedera_backend_nodejs.js",
+    "dev": "nodemon hedera_backend_nodejs.js"
+  },
+  "keywords": [
+    "hedera",
+    "blockchain",
+    "rewards",
+    "nft",
+    "rdk",
+    "streaming"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@hiero-ledger/sdk": "^2.0.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
