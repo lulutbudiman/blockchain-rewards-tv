@@ -3,6 +3,7 @@
 A tokenized viewer rewards system for RDK STB/TV platforms, integrated with Hedera blockchain for transparent, verifiable engagement tracking and NFT achievement badges.
 
 Platform - RDK RaspberryPi
+
 Blockchain - Hedera
 
 ## 🎯 Overview
